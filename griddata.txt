@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "cstm_name": "한국출판사",
+      "dlvy_rgin": "서울",
+      "cstm_dvcd": "매입"
+    },
+    {
+      "cstm_name": "중국출판사",
+      "dlvy_rgin": "부산",
+      "cstm_dvcd": "매출"
+    },
+    {
+      "cstm_name": "일본출판사",
+      "dlvy_rgin": "경기",
+      "cstm_dvcd": "매입"
+    },
+    {
+      "cstm_name": "미국출판사",
+      "dlvy_rgin": "강원",
+      "cstm_dvcd": "매출"
+    },
+    {
+      "cstm_name": "태국출판사",
+      "dlvy_rgin": "경북",
+      "cstm_dvcd": "매입"
+    },
+    {
+      "cstm_name": "대만출판사",
+      "dlvy_rgin": "경남",
+      "cstm_dvcd": "매출"
+    },
+    {
+      "cstm_name": "영국출판사",
+      "dlvy_rgin": "전북",
+      "cstm_dvcd": "매입"
+    },
+    {
+      "cstm_name": "호주출판사",
+      "dlvy_rgin": "전남",
+      "cstm_dvcd": "매출"
+    },
+    {
+      "cstm_name": "북한출판사",
+      "dlvy_rgin": "대구",
+      "cstm_dvcd": "매입"
+    }
+  ]
+}
